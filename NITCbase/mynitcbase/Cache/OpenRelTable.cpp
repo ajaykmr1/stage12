@@ -28,7 +28,7 @@ AttrCacheEntry *createlinkedlist(int n)
   temp->next = nullptr;
   return t;
 }
-
+    
 OpenRelTable::OpenRelTable()
 {
 
